@@ -23,7 +23,7 @@
 #### Graphics
 * TA Hour排队，上了个厕所，回来时TA未找到人遂标记为Missing
 * TA Hour开了[Signmeup](https://signmeup.cs.brown.edu)，TA叫第一个人了，然而焦扬同志的[Signmeup](https://signmeup.cs.brown.edu)网页还在加载
-* TA Hour又开始了，排了68个人了，然而焦扬通同志[Signmeup](https://signmeup.cs.brown.edu)网页又坏掉了
+* TA Hour又开始了，排了68个人了，然而焦扬同志[Signmeup](https://signmeup.cs.brown.edu)网页又坏掉了
 * TA Hour终于排上了，TA把焦扬同志删掉了
 * Sun Lab做profiling，发现有个SSH远程跑DL的同学占了80%的内存，并且表示这是什么垃圾代码
 * 万圣节去了JCA的鬼屋，描述体验与Graphics的TA Hour无异
