@@ -3,7 +3,7 @@
 
 
 ## 翻车记录
-#### ENGN-2020
+#### [ENGN-2020](https://github.com/FuckENGN2020/FuckENGN2020)
 * 周五凌晨赶ENGN2020的take home midterm，从五点在桌上睡到六点后开始说胡话
 * 周五下午因为赶着去上并行计算，并且下课后忙着与教授扯淡，而错过了ENGN2020的Midterm DDL
 
