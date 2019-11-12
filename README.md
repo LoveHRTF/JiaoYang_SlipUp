@@ -35,6 +35,8 @@
 * 吃了[Yan's Cuisine](http://www.yanscuisineri.com),导致急性肠胃炎，上吐下泻两天后医生给开了治疗化疗后疼痛的止痛药
 * 装SSD把主板上螺丝拧断，只能拿胶布贴上去
 * 去[重庆山庄](https://www.yelp.com/biz/chong-qing-house-providence)吃饭，点了两个菜，爆满，等了一个半小时
+* 家里暖气爆炸，导致早上五点才睡着
+* 家里厕所爆炸，房东找人修厕所导致住了一周宾馆
 
 
 ## 语录合集
