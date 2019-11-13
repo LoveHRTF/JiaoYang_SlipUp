@@ -41,4 +41,4 @@
 
 ## 语录合集
 * [今亡亦死，举大计亦死，等死，死国可乎？](./wiki/今亡亦死.md)
-* [Same shit different day](./sameshit.md)
+* [Same shit different day](./wiki/sameshit.md)
